@@ -1,2 +1,0 @@
-# smashdk.github.io
-Userpage
